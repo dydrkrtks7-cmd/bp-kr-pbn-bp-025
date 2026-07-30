@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://blog.massagelab-yeouido.xyz/sitemap.xml
+Sitemap: https://blog.massagelab-yeouido.xyz/sitemap-pages.xml
